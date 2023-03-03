@@ -1,0 +1,47 @@
+body{
+  background-image: url(../paris.jpg);
+  height: 700px;
+  width: 1000px;
+}
+body h1{
+  color: white;
+  text-align: center;
+}
+body li{
+  font-size: 30px;
+  color: white;
+}
+#boton3{
+  font-size: 15px;
+  color: Black;
+  background-color:red;
+  border:2px solid red;
+  height: 1.5cm;
+}
+#boton{
+  font-size: 15px;
+  color: Black;
+  background-color: yellow;
+  border:2px solid yellow;
+  height: 1.5cm;
+}
+body input{
+  background-color: aqua;
+}
+#cuadro{
+  height: 2cm;
+  background-color: gainsboro;
+  font-size: 55px;
+}
+#cuadro1{
+  height: 2cm;
+  background-color: gainsboro;
+  font-size: 55px;
+}
+#boton1{
+  font-size: 15px;
+  color: Black;
+  background-color: lime;
+  border:2px solid lime;
+  height: 1.5cm;
+}
